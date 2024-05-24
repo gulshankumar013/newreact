@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.shoping{
+    padding-top: 2%;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(158, 142, 142);
+    justify-content: space-around;
+}
